@@ -5,4 +5,6 @@ def sub(x,y):
 def mul(x,y):
   r=x*y
 def div(x,y):
-  r=x/y
+  r=x%y
+
+hii hello
