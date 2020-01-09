@@ -1,10 +1,12 @@
 def add(x,y):
   r=r+y
 def sub(x,y):
-  r=x-y
+  return x-y
 def mul(x,y):
   r=x*y
 def div(x,y):
   r=x%y
+pass
+break
 
 hii hello
